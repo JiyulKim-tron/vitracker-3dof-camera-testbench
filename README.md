@@ -145,10 +145,10 @@ Design considerations included:
 
 ## Repository Structure
 
-- `CAD/` — native and neutral CAD files
-- `Drawings/` — engineering drawings and manufacturing documentation
-- `Images/` — screenshots and motion demonstration
-- `Documentation/` — project notes and design documentation
+- `CAD` — native and neutral CAD files
+- `Drawings` — engineering drawings and manufacturing documentation
+- `Images` — screenshots and motion demonstration
+- `Documentation` — project notes and design documentation
 
 ## Status
 
