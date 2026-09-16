@@ -127,6 +127,13 @@ defined motion limits.
 | Pitch | -15° to +15° |
 | Roll | -45° to +45° |
 
+## Joint Demonstration
+
+A Fusion 360 motion demonstration of the three rotational degrees of
+freedom is available here:
+
+[View joint demonstration](Images/joint-demonstration.mp4)
+
 ## Manufacturing Considerations
 
 The custom mechanical components were designed primarily for FDM
