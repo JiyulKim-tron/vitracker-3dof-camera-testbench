@@ -157,6 +157,10 @@ Design considerations included:
 - `Images` — screenshots and motion demonstration
 - `Documentation` — project notes and design documentation
 
+## CAD Files
+
+The full Fusion 360 assembly and STEP export are available in the project releases.
+
 ## Status
 
 Mechanical CAD design completed.
