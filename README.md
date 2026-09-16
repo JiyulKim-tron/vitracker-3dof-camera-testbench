@@ -39,6 +39,12 @@ the assembly.
 - Additional mounting provisions for future expansion
 - Components designed with FDM 3D printing in mind
 
+## Design Documentation
+
+Additional mechanical design notes are available in:
+
+[`Documentation/design-notes.md`](Documentation/design-notes.md)
+
 ## Mechanical Architecture
 
 The camera mechanism consists of three nested rotational joints.
